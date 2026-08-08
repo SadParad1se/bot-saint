@@ -1,0 +1,13 @@
+maubot: 0.6.0
+id: com.github.sadparad1se.bot_saint
+version: 0.1.4
+license: GPL-3.0-only
+modules:
+  - sadparad1se_bot_saint
+main_class: SaintBot
+extra_files:
+  - cze-bkr.zefania.xml
+  - cze-bkr-emoji.xml
+database: false
+config: false
+
